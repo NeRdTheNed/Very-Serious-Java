@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author 47479
+ * @author NeRd
  *
  */
 module VerySeriousModule {
